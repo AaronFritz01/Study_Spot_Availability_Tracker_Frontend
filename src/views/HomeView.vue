@@ -1,9 +1,9 @@
 <script setup>
-
+import SplashScreen from '../components/SplashScreen.vue';
 </script>
 
 <template>
   <main>
-    <p>Hello</p>
+    <SplashScreen />
   </main>
 </template>
