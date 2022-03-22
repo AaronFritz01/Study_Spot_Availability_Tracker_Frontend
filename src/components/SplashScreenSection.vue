@@ -1,5 +1,5 @@
 <script setup>
-import SplashButton from './templates/SplashButton.vue';
+import SplashButton from "./templates/SplashButton.vue";
 </script>
 
 <template>
