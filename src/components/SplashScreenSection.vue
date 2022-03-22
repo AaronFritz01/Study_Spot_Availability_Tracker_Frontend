@@ -13,4 +13,4 @@ import SplashButton from './templates/SplashButton.vue';
   </div>
 </template>
 
-<style></style>
+<style scoped></style>
