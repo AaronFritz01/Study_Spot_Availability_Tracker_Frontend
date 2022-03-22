@@ -1,9 +1,9 @@
 <script setup>
-import SplashScreen from '../components/SplashScreen.vue';
+import SplashScreenSection from "../components/SplashScreenSection.vue";
 </script>
 
 <template>
   <main>
-    <SplashScreen />
+    <SplashScreenSection />
   </main>
 </template>
