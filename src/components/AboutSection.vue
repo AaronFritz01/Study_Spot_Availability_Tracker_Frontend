@@ -39,6 +39,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
+  padding: 4em;
 
 }
 h2{
@@ -48,7 +49,7 @@ h2{
 }
 .text-wrapper{
   font-size: 1.75em;
-  padding: 2em 4em 10em 4em;
+  padding: 2em 2em;
 }
 .gold-bar {
   background: #b19d78;
