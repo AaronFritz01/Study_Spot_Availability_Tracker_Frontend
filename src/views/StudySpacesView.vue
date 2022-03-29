@@ -5,7 +5,7 @@ import LocationSection from "../components/LocationSection.vue";
 
 <template>
   <main>
-      <LocationSection />
+    <LocationSection />
     <ContactSection />
   </main>
 </template>

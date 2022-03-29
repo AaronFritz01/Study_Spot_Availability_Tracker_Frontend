@@ -4,6 +4,7 @@
       <h2>Our Story</h2>
       <div class="gold-bar"></div>
     </div>
+    <div class="text-wrapper">
     <p>
       Purdue University has now seen the largest incoming class for Fall 2021
       with more than 10,000 freshmen enrolling. Due to the added volume of
@@ -26,7 +27,34 @@
       constellation of detectors to gather and display occupancy data in a
       user-friendly and visually appealing website.
     </p>
+    </div>
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.white-background {
+  position: relative;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+}
+h2{
+  font-size: 3em;
+  text-align: center;
+  margin: 0em;
+}
+.text-wrapper{
+  font-size: 1.75em;
+  padding: 2em 4em 10em 4em;
+}
+.gold-bar {
+  background: #b19d78;
+  width: 250px;
+  height: 5px;
+  margin: .5em;
+  }
+
+</style>
