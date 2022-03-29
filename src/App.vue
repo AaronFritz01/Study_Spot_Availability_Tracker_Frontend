@@ -45,16 +45,26 @@ import { RouterLink, RouterView } from "vue-router";
   <RouterView />
 </template>
 
-<style>
+<style scoped>
 .gold-stripe {
-  background-color: #6d5631;
-  height: 25px;
+  background-color: #cfb991;
+  height: 30px;
+  padding: 0em 2em;
 }
 .main-nav {
-  background-color: #1e2a32;
-  color: white;
+  font-family: "Helvetica", sans-serif;
+  background-color: white;
+  color: black;
+  height: 30px;
+  padding: 0.25em 3.25em;
+  display: flex;
+  justify-content: space-between;
 }
 .black-stripe {
   background-color: black;
+}
+img {
+  width: 20%;
+  padding: 1.25em 3.25em;
 }
 </style>
