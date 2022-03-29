@@ -47,7 +47,6 @@ h4 {
   margin: 0.25em;
 }
 .gold-bar {
-  position: absolute;
   background: #b19d78;
   width: 2%;
   height: 80%;
